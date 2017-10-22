@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo');
+/* body { padding-top: 20px; } */
+/* .background-section {
+    margin: 0;
+    padding: 1.25rem;
+    display: block;
+    width: 100%;
+    clear: both;
+    /* background: #b3b1b2; */
+} */
+
+
+
+.a{
+    background-color: #575556;
+}
+
+.b{
+    background: white;
+}
+
+.c{
+    background: yellow;
+}
+
+.d{
+    background: red;
+}
+
+.f{
+    background: violet
+}
